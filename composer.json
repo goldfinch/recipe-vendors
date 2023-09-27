@@ -19,12 +19,15 @@
         "silverstripe/crontask": "^3.0",
         "silverstripe/tagfield": "^3.0",
         "axllent/silverstripe-email-obfuscator": "^2.1",
+        "axllent/silverstripe-version-truncator": "^3.0",
         "unclecheese/display-logic": "^3.0",
         "jonom/focuspoint": "^5.0",
         "tractorcow/silverstripe-autocomplete": "^5.0",
         "gorriecoe/silverstripe-linkfield": "^1.1",
         "bummzack/sortablefile": "^2.0",
-        "innoweb/silverstripe-minify-html": "dev-master"
+        "innoweb/silverstripe-minify-html": "dev-master",
+        "heyday/silverstripe-colorpalette": "^2.1",
+        "tractorcow/silverstripe-robots": "^4"
     },
     "autoload": {
         "psr-4": {
