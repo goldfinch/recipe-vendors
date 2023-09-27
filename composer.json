@@ -18,6 +18,7 @@
         "silverstripe/redirectedurls": "3.0.0-beta1",
         "silverstripe/crontask": "^3.0",
         "silverstripe/tagfield": "^3.0",
+        "symbiote/silverstripe-grouped-cms-menu": "dev-custom",
         "axllent/silverstripe-email-obfuscator": "^2.1",
         "axllent/silverstripe-version-truncator": "^3.0",
         "unclecheese/display-logic": "^3.0",
