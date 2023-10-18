@@ -28,7 +28,8 @@
         "bummzack/sortablefile": "^2.0",
         "innoweb/silverstripe-minify-html": "dev-master",
         "heyday/silverstripe-colorpalette": "^2.1",
-        "undefinedoffset/sortablegridfield": "^2.2"
+        "undefinedoffset/sortablegridfield": "^2.2",
+        "littlegiant/silverstripe-image-points": "dev-ss5"
     },
     "autoload": {
         "psr-4": {
