@@ -32,7 +32,8 @@
         "undefinedoffset/sortablegridfield": "^2.2",
         "littlegiant/silverstripe-image-points": "dev-ss5",
         "stevie-mayhew/hasoneedit": "^2.2",
-        "nswdpc/silverstripe-elemental-modeladmin": "^1.0@RC"
+        "nswdpc/silverstripe-elemental-modeladmin": "^1.0@RC",
+        "jonom/silverstripe-someconfig": "^1.0"
     },
     "autoload": {
         "psr-4": {
