@@ -35,7 +35,11 @@
         "lekoala/silverstripe-encrypt": "dev-master",
         "symbiote/silverstripe-gridfieldextensions": "^4",
         "dynamic/silverstripe-country-dropdown-field": "^2.0",
-        "innoweb/silverstripe-international-phone-number-field": "dev-master"
+        "innoweb/silverstripe-international-phone-number-field": "dev-master",
+        "ryanpotter/silverstripe-color-field": "^1.0",
+        "maxime-rainville/anyfield": "^0.0.0",
+        "silverstripe/linkfield": "^3",
+        "kevingroeger/codeeditorfield": "^1.2"
     },
     "autoload": {
         "psr-4": {
